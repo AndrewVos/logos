@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg5791"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="alien-bird.svg">
+  <defs
+     id="defs5793" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="352.02827"
+     inkscape:cy="592.24674"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1362"
+     inkscape:window-height="720"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5796">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#d0e0eb;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0"
+       d="m 345.71429,372.99855 c -29.46864,-3.82487 -26.61601,4.9689 -26.70586,15.45244 -0.0461,5.38404 6.16399,15.35991 6.16399,15.35991 l 16.5774,1.13796 0.50508,27.36078 c 0,0 -10.31691,-21.71828 -19.40828,-12.12183 -16.16244,18.18275 -6.06091,33.96011 -6.06091,33.96011 l -39.64285,-2.5 24.20066,-63.05826 -63.28045,62.69471 47.75739,47.04309 32.54266,-8.71978 8.90672,-15.42689 -12.34907,46.08738 23.14994,38.3858 -1.57693,-85.27979 9.22051,2.47063"
+       id="path5801"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccccccccccccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path5801"
+       id="use5807"
+       transform="matrix(-1,0,0,1,691.08726,0)"
+       width="100%"
+       height="100%" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 332.17901,375.48766 c -16.43003,2.11764 -8.49269,5.72585 -8.33376,8.58629 0.51984,9.35675 8.33376,10.10153 16.41498,-0.75761 8.08122,-10.85914 -2.27285,-7.57615 -2.27285,-7.57615 z"
+       id="path5835"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path5835"
+       id="use5837"
+       transform="matrix(-1,0,0,1,691.08726,0)"
+       width="100%"
+       height="100%" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 342.23214,393.88006 c 0,0 6.875,-2.94643 7.76786,-0.625 0.89286,2.32143 -2.41071,5.35714 -2.41071,5.35714 0,0 -6.96429,1.60715 -7.58929,-1.07143 -0.625,-2.67857 1.60714,-3.30357 2.23214,-3.66071 z"
+       id="path5864"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
